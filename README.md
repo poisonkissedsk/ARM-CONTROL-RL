@@ -28,7 +28,7 @@ HER tackles this issue by reusing past experiences for learning, even if they di
 
 Link to HER paper: https://arxiv.org/pdf/1707.01495.pdf
 
-## How ro run
+## How to run
 
 - <p>You can train a given model simply by running one of the files in the `training` folder.</p>
     <p>DDPG With HER: <a href="https://github.com/poisonkissedsk/ARM-CONTROL-RL/blob/main/training/ddpg_her.py">ddpg_her.py</a></p>
